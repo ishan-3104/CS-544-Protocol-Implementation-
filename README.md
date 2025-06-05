@@ -29,3 +29,9 @@ This project implements a TCP-based file transfer protocol (FTP-Q) with the foll
    ```bash
    python3 -m client.server
    ```
+
+## Documentation and Comments
+
+- Every function and method includes docstrings explaining its purpose, input parameters, and return values.
+- Complex parts, such as protocol parsing, SHA-256 verification, and state transitions, are commented for clarity.
+- Code is structured and readable, making it easy to understand and extend.
