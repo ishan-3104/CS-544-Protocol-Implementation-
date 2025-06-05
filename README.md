@@ -19,7 +19,7 @@ This project implements a TCP-based file transfer protocol (FTP-Q) with the foll
 - Resume from offset using `FileAck`
 - Protocol version negotiation
 
-## How to Run
+## How to Run (Python 3.7+ required)
 
 1. **Start the server:**
    ```bash
